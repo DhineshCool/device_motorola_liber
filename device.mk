@@ -65,6 +65,9 @@ PRODUCT_PACKAGES += \
     tune2fs_ramdisk \
     resize2fs_ramdisk
 
+PRODUCT_PACKAGES += \
+    Aperture
+
 # Properties
 -include $(LOCAL_PATH)/properties.mk
 
