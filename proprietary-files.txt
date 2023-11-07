@@ -214,10 +214,6 @@ vendor/etc/camera/vidhance_calibration
 vendor/firmware/AbovCapSense.BIN
 vendor/firmware/CAMERA_ICP.elf
 
-# Camera provider
-vendor/lib/android.hardware.camera.provider@2.4-legacy.so
-vendor/lib64/android.hardware.camera.provider@2.4-legacy.so
-
 # Camera
 system_ext/lib/libarcsoft_calibverify_TriCamera.so
 system_ext/lib/libarcsoft_tricam_calibration.so
